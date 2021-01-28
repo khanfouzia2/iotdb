@@ -41,6 +41,7 @@ IoTDB (Internet of Things Database) is a data management system for time series 
 
 Main features of IoTDB are as follows:
 
+
 1. Flexible deployment strategy. IoTDB provides users a one-click installation tool on either the cloud platform or the terminal devices, and a data synchronization tool bridging the data on cloud platform and terminals.
 2. Low cost on hardware. IoTDB can reach a high compression ratio of disk storage.
 3. Efficient directory structure. IoTDB supports efficient organization for complex time series data structure from intelligent networking devices, organization for time series data from devices of the same type, fuzzy searching strategy for massive and complex directory of time series data.
