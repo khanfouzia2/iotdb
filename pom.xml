@@ -103,6 +103,11 @@
     </modules>
     <!-- Properties Management -->
     <properties>
+
+        <sonar.projectKey>khanfouzia2_iotdb</sonar.projectKey>
+        <sonar.organization>khanfouzia2</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.assembly.version>3.1.0</maven.assembly.version>
